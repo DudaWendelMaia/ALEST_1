@@ -4,7 +4,13 @@
 <img width="300" height="200" src="https://algol.dev/wp-content/uploads/2020/10/trees_11.gif">
 </div>
 
-Bem-vindo ao repositório da disciplina de **Algoritmos e Estruturas de Dados 1 (ALEST 1)**, ministrada no período 2023/01! Aqui, você encontrará os trabalhos, projetos e exercícios que exploram os conceitos fundamentais de Algoritmos e Estrutura de Dados.
+Bem-vindo ao repositório da disciplina de **Algoritmos e Estruturas de Dados 1 (ALEST 1)**! Aqui, você encontrará os trabalhos, projetos e exercícios que exploram os conceitos fundamentais de Algoritmos e Estrutura de Dados.
+
+## ℹ️ Informações
+
+- **Status:** Concluída
+- **Realizada em:** 2023/01
+- **Link:** https://github.com/DudaWendelMaia/AlestI.git
 
 ## 🌟 Visão Geral
 
