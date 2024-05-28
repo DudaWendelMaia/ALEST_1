@@ -17,23 +17,23 @@ Este repositório é dedicado aos trabalhos e exercícios realizados ao longo do
 
 ## 🗂️ Estrutura do Repositório
 
-Abaixo, você encontra a organização dos conteúdos presentes neste repositório:
+Abaixo, você encontra a organização dos trabalhos presentes neste repositório:
 
 ```
 📦 ALEST-1
 ├── 📁 Trabalho1
-│   ├── 📄 ListaLigada.java
-│   ├── 📄 Pilha.java
-│   ├── 📄 Fila.java
-│   └── 📄 README.md
+│   ├── 📄 Enunciado.pdf
+│   ├── 📄 README.md
+│   └── 📄 Resolucao.pdf
 ├── 📁 Trabalho2
-│   ├── 📄 README.md
-│   ├── 📄 Relatório.pdf
-│   └── 📄 CodigoFonte.java
+│   ├── 📄 bin
+│   ├── 📄 src
+│   └── 📄 README.md
 ├── 📁 Trabalho3
+│   ├── 📄 bin
+│   ├── 📄 src
 │   ├── 📄 README.md
-│   ├── 📄 Relatório.pdf
-│   └── 📄 CodigoFonte.java
+│   └── 📄 Dicionario.csv
 └── 📄 README.md
 ```
 
