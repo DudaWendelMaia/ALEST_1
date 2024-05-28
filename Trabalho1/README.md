@@ -6,7 +6,7 @@
 
 ## ℹ️ Informações
 - **Autores:** Maria Maia
-- **Data:** 27/05/2024
+- **Data:** 10/04/2023
 - **Status:** Concluído
 - **Descrição:** Analise desempenho de algoritmos
 - **Link:** https://github.com/DudaWendelMaia/AlestI.git
