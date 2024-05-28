@@ -45,16 +45,16 @@ Para explorar os projetos e exercícios:
 2. Leia o README.md para entender o contexto e as instruções de execução.
 3. Execute o código-fonte conforme as instruções fornecidas.
 
-## 🚀 Projetos Destaques
+## 🚀 Trabalhos
 
-### Trabalho 1: Estruturas de Dados Lineares
-Este projeto envolve a implementação e análise de estruturas de dados lineares como listas ligadas, pilhas e filas, e a resolução de problemas utilizando essas estruturas.
+### Trabalho 1: Analise Algoritmos
+Este trabalho tem o objetivo de analisar o desempenho de algoritmos usando técnicas experimentais.
 
-### Trabalho 2: Árvores e Grafos
-Este projeto aborda a implementação de árvores binárias, árvores de busca, e grafos, além de explorar algoritmos de travessia e busca.
+### Trabalho 2: Consulta Placas de Sinalização de Trânsito
+Etem como objetivo modelar e implementar um sistema de consultas sobre as placas de sinalização de trânsito de Porto Alegre usando estruturas encadeadas.
 
-### Trabalho 3: Árvores e Grafos
-Este projeto aborda a implementação de árvores binárias, árvores de busca, e grafos, além de explorar algoritmos de travessia e busca.
+### Trabalho 3: Árvores de Palavras Para Dicionário
+Tem como objetivo gerenciar uma árvore de palavras para um dicionário. A partir de caracteres digitados é apresentada a lista de palavras que começam com estes caracteres.
 
 ## 📫 Contato
 
