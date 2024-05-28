@@ -1,4 +1,4 @@
-# 🌳 Algoritmos e Estruturas de Dados 1 (ALEST 1)
+# 🌳 ALEST 1
 
 <div align="center">
 <img width="300" height="200" src="https://algol.dev/wp-content/uploads/2020/10/trees_11.gif">
@@ -10,6 +10,7 @@ Bem-vindo ao repositório da disciplina de **Algoritmos e Estruturas de Dados 1 
 
 - **Status:** Concluída
 - **Realizada em:** 2023/01
+- **Nome:** Algoritmos e Estruturas de Dados 1
 - **Link:** https://github.com/DudaWendelMaia/AlestI.git
 
 ## 🌟 Visão Geral
