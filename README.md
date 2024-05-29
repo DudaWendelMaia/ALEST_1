@@ -11,7 +11,7 @@ Bem-vindo ao repositório da disciplina de **Algoritmos e Estruturas de Dados 1 
 - **Status:** Concluída
 - **Realizada em:** 2023/01
 - **Nome:** Algoritmos e Estruturas de Dados 1
-- **Link:** https://github.com/DudaWendelMaia/AlestI.git
+- **Link:** https://github.com/DudaWendelMaia/ALEST_1.git
 
 ## 🌟 Visão Geral
 
