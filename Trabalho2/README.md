@@ -1,7 +1,7 @@
 # 🚦 Consulta Placas de Trânsito
 
 <div align="center">
-  <img width="150" height="150" src="https://i.pinimg.com/originals/e6/3f/af/e63fafc1600ddf61941ce34362704447.gif" alt="Placas de Trânsito">
+  <img width="150" height="150" src="https://media.tenor.com/hapjxf8y50YAAAAi/stop-sign.gif" alt="Placas de Trânsito">
 </div>
 
 ## ℹ️ Informações
