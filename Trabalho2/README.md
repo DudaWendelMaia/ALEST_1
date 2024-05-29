@@ -10,7 +10,7 @@
 - **Data:** 15/05/2023
 - **Status:** Concluído
 - **Descrição:** Sistema de consultas de placas de trânsito.
-- **Link:** [GitHub](https://github.com/DudaWendelMaia/AlestI.git)
+- **Link:** https://github.com/DudaWendelMaia/ALEST_1.git
 
 ## 🎯 Problema
 
@@ -47,7 +47,7 @@ Certifique-se de ter o JDK instalado. Clone o repositório e compile o código J
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/DudaWendelMaia/AlestI.git
+    git clone https://github.com/DudaWendelMaia/ALEST_1.git
     ```
 
 2. Navegue até a pasta do projeto:
