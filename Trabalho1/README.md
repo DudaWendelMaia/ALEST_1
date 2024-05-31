@@ -19,3 +19,7 @@ experimentais.
 ## Resolução
 
 Está localizada no PDF contendo a análise dos 5 algoritmos
+
+---
+
+Espero que este trabalho tenha sido útil! ✨🚀
